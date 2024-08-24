@@ -1,0 +1,20 @@
+.main {
+    width: 100%;
+    min-height: 400px;
+    background-color: rgb(232, 255, 213);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 21px;
+}
+.textContainer {
+    width: 100%;
+    min-height: 300px;
+    max-height: 300px;
+    border: 1px solid #000;
+    padding: 20px;
+    overflow: scroll;
+
+}
+
